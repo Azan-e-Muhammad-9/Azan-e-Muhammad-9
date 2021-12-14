@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming and Coding
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me --> azanali553@gmail.com
 
 <!---
 Azan-e-Muhammad-9/Azan-e-Muhammad-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
