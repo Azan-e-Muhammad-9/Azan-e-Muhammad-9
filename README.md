@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azan-e-Muhammad
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Game Development (Unity)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> azanali553@gmail.com
 
