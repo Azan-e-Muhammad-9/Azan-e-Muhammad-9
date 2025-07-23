@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azan-e-Muhammad
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently working on Web Development (.Net | React.Js | Vue.Js )
+- 🌱 I’m currently working on Web Development (.Net | Python | React.Js | Angular )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> azan.e.muhammad09@gmail.com
 
